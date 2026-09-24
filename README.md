@@ -1,4 +1,4 @@
-# salut moi c'est Océane 
+# Himeko002
 
 je débute dans le dev et j'essaie de comprendre comment tout fonctionne. pour l'instant, ce qui m'intéresse le plus, c'est le développement de jeux vidéo et le dev Web.
 
